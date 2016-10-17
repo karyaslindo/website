@@ -390,7 +390,7 @@
 #wowslider-container2  img.loading{
 	width:64px;
 	height:48px;
-	background: url(https://googledrive.com/host/0B4QZRe4gQCAlMUdya3hSVFl2a2c/loading.gif) 50% 50% no-repeat;
+	background: url(https://cdn.rawgit.com/karyaslindo/website/master/loading.gif) 50% 50% no-repeat;
 }
 #wowslider-container2 .ws_bulframe div div{
 	height: auto;
